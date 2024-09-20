@@ -11,9 +11,14 @@
 
 ## วิธีติดตั้งและใช้งาน
 ---------------------
-
+```bash
 CHANNEL_TOKEN: โทเคนการเข้าถึงช่อง LINE
+
 GDRIVE_FOLDER_FILE_ID: รหัสโฟลเดอร์ สำหรับเก็บไฟล์
+
 GDRIVE_FOLDER_IMAGE_ID: รหัสโฟลเดอร์ สำหรับเก็บภาพ
+
 GDRIVE_FOLDER_VIDEO_ID: รหัสโฟลเดอร์ สำหรับเก็บวิดีโอ
+
 GDRIVE_FOLDER_AUDIO_ID: รหัสโฟลเดอร์ สำหรับเก็บไฟล์เสียง
+```
